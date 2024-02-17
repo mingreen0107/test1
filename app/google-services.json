@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991750212484",
+    "project_id": "sogaetingfinal-ee831",
+    "storage_bucket": "sogaetingfinal-ee831.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991750212484:android:86f176b5b0a15e1ca76bd1",
+        "android_client_info": {
+          "package_name": "com.example.test1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVbrVIO6PnPV2Pwk2cbXSyqYf0zKdjEXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
