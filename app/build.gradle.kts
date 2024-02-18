@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.example.test1"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.test1"
@@ -51,4 +51,5 @@ dependencies {
     implementation("com.google.firebase:firebase-analytics")
 
     implementation("com.google.firebase:firebase-auth-ktx")
+    implementation("com.google.firebase:firebase-database-ktx")
 }
